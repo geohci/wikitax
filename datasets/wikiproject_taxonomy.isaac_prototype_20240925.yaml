@@ -10,7 +10,7 @@ Culture:
    - WikiProject Breakfast
    - WikiProject Spirits
    - WikiProject Wine
-  Literature:
+  Literature and Languages:
    - WikiProject Literature
    - WikiProject Academic Journals
    - WikiProject Alternate History
@@ -18,7 +18,6 @@ Culture:
    - WikiProject Australian literature
    - WikiProject Balzac
    - WikiProject Books
-   - WikiProject Magazines
    - WikiProject Children's literature
    - WikiProject Hugo and Nebula Award Winners
    - WikiProject Indian literature
@@ -30,6 +29,10 @@ Culture:
    - WikiProject Shakespeare
    - WikiProject Fictional characters
    - WikiProject Women writers
+   - WikiProject Anthroponymy
+   - WikiProject Linguistics
+   - WikiProject Languages
+   - WikiProject Writing systems
   Media:
     Journalism:
      - WikiProject Media
@@ -37,6 +40,7 @@ Culture:
      - WikiProject BBC
      - WikiProject Podcasting
      - WikiProject Newspapers
+     - WikiProject Magazines
     Entertainment:
      - WikiProject Entertainment
      - WikiProject Animals in media
@@ -95,7 +99,7 @@ Culture:
      - WikiProject Albums
      - WikiProject Discographies
      - WikiProject Record Labels
-    Television:
+    Film and Television:
      - WikiProject Television
      - WikiProject Australian television
      - WikiProject British television
@@ -103,7 +107,6 @@ Culture:
      - WikiProject Doctor Who
      - WikiProject Indian television
      - WikiProject Scottish television
-     - WikiProject British television/Shows
      - WikiProject Nickelodeon
      - WikiProject Professional wrestling
      - WikiProject Television Game Shows
@@ -172,7 +175,6 @@ Culture:
    - WikiProject Bible
   Sports:
    - WikiProject Sports
-   - WikiProject Event Venues/Sports task force
    - WikiProject Women's sport
    - WikiProject Athletics
    - WikiProject Australian sports
@@ -321,25 +323,18 @@ History and Society:
    - WikiProject Shipwrecks
    - WikiProject Historic sites
    - WikiProject World Heritage Sites
-  Society:
-   - WikiProject Corruption
+  Society and Culture:
    - WikiProject Cultural Evolution
-   - WikiProject Globalization
    - WikiProject Home Living
    - WikiProject Ethnic groups
    - WikiProject Anthropology
    - WikiProject Sociology
    - WikiProject Internet culture
-   - WikiProject Furry
-   - WikiProject Linguistics
-   - WikiProject Anthroponymy
-   - WikiProject Folklore
-   - WikiProject Languages
-   - WikiProject Writing systems
    - WikiProject Sexology and sexuality
+   - WikiProject Animal rights
+   - WikiProject Folklore
    - WikiProject Mythology
   Human Rights:
-   - WikiProject Animal rights
    - WikiProject Gender studies
    - WikiProject LGBT studies
    - WikiProject Ageing and culture
@@ -350,9 +345,9 @@ History and Society:
    - WikiProject Nonviolence
    - WikiProject Anti-war
    - WikiProject Mass surveillance
-   - WikiProject International law
    - WikiProject Discrimination
    - WikiProject Freedom of speech
+   - WikiProject Organized Labour
   Business and economics:
    - WikiProject Brands
    - WikiProject Business
@@ -371,6 +366,7 @@ History and Society:
    - WikiProject Retailing
    - WikiProject Taxation
    - WikiProject Trade
+   - WikiProject Energy
   Education:
    - WikiProject Alternative education
    - WikiProject Education
@@ -444,6 +440,8 @@ History and Society:
    - WikiProject Espionage
    - WikiProject Piracy
    - WikiProject Terrorism
+   - WikiProject Corruption
+   - WikiProject Globalization
   Transportation:
    - WikiProject Transport
    - WikiProject Automobiles
@@ -472,9 +470,6 @@ STEM:
   Biology:
    - WikiProject Biology
    - WikiProject Molecular Biology
-   - WikiProject Molecular Biology/Molecular and Cell Biology
-   - WikiProject Molecular Biology/Genetics
-   - WikiProject Ecology
    - WikiProject Evolutionary biology
    - WikiProject Extinction
    - WikiProject Human Genetic History
@@ -515,6 +510,9 @@ STEM:
     - WikiProject Protected areas
     - WikiProject Forestry
     - WikiProject Energy
+    - WikiProject Mining
+    - WikiProject Beekeeping
+    - WikiProject Horticulture and Gardening
     Sustainability:
     - WikiProject Climate
     - WikiProject Environment
@@ -525,6 +523,7 @@ STEM:
     - WikiProject Severe weather
     - WikiProject Tropical cyclones
     - WikiProject Non-tropical storms
+    - WikiProject Ecology
     Physical Geography:
     - WikiProject Geology
     - WikiProject Rocks and minerals
@@ -569,7 +568,6 @@ STEM:
    - WikiProject Google
    - WikiProject Internet
    - WikiProject Parallel and Distributed Computing Systems
-   - WikiProject Internet
    - WikiProject IRC
    - WikiProject Blogging
    - WikiProject YouTube
@@ -608,7 +606,7 @@ STEM:
    - WikiProject National Health Service
    - WikiProject Psychoactive and Recreational Drugs
    - WikiProject Altered States of Consciousness
-  Physics:
+  Physics and Space:
    - WikiProject Physics
    - WikiProject Optics
    - WikiProject Spectroscopy
@@ -627,8 +625,6 @@ STEM:
    - WikiProject Blu-ray
    - WikiProject Blades
    - WikiProject Electronics
-   - WikiProject Engineering
-   - WikiProject Energy
    - WikiProject Firearms
    - WikiProject Metalworking
    - WikiProject Polymers
