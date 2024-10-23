@@ -42,20 +42,16 @@ Culture:
      - WikiProject Newspapers
      - WikiProject Magazines
     Entertainment:
-     - WikiProject Entertainment
-     - WikiProject Animals in media
-     - WikiProject Comedy
-     - WikiProject Entertainment Technology
      - WikiProject Games
-     - WikiProject YouTube
-     - WikiProject Soap Operas
-     - WikiProject Magazines
-     - WikiProject Science Fiction
      - WikiProject Amusement Parks
      - WikiProject Gambling
      - WikiProject Toys
      - WikiProject Video games
      - WikiProject Festivals
+     - WikiProject Board and Table Games
+     - WikiProject Role-playing games
+     - WikiProject Travel and Tourism
+     - WikiProject Craft
     Music:
      - WikiProject Musicians
      - WikiProject Music
@@ -132,6 +128,8 @@ Culture:
    - WikiProject Stagecraft
    - WikiProject Elizabethan theatre
    - WikiProject Shakespeare
+   - WikiProject Comedy
+   - WikiProject Entertainment Technology
   Philosophy and religion:
    - WikiProject Philosophy
    - WikiProject Alternative medicine
@@ -283,7 +281,8 @@ Culture:
      - WikiProject Animation
     Fashion:
      - WikiProject Fashion
-     - WikiProject Beauty Pageants   
+     - WikiProject Beauty Pageants  
+     - WikiProject Textile Arts 
 History and Society:
   History:
    - WikiProject History
@@ -323,6 +322,8 @@ History and Society:
    - WikiProject Shipwrecks
    - WikiProject Historic sites
    - WikiProject World Heritage Sites
+   - WikiProject History of Science
+   - WikiProject Time
   Society and Culture:
    - WikiProject Cultural Evolution
    - WikiProject Home Living
@@ -334,6 +335,9 @@ History and Society:
    - WikiProject Animal rights
    - WikiProject Folklore
    - WikiProject Mythology
+   - WikiProject Cognitive science
+   - WikiProject Futures studies
+   - WikiProject Skepticism
   Human Rights:
    - WikiProject Gender studies
    - WikiProject LGBT studies
@@ -382,6 +386,7 @@ History and Society:
    - WikiProject Collections Care
    - WikiProject Maps
    - WikiProject Higher education
+   - WikiProject Academic Journals
   Military and warfare:
    - WikiProject Military history
    - WikiProject Cold War
@@ -455,18 +460,6 @@ History and Society:
    - WikiProject Gliding
    - WikiProject Hiking trails
 STEM:
-  STEM*:
-   - WikiProject Science
-   - WikiProject Academic Journals
-   - WikiProject Cognitive science
-   - WikiProject Color
-   - WikiProject Futures studies
-   - WikiProject History of Science
-   - WikiProject Measurement
-   - WikiProject Skepticism
-   - WikiProject Systems
-   - WikiProject Time
-   - WikiProject Time Zones
   Biology:
    - WikiProject Biology
    - WikiProject Molecular Biology
@@ -618,6 +611,7 @@ STEM:
    - WikiProject Moon
    - WikiProject Spaceflight
    - WikiProject Rocketry
+   - WikiProject Measurement
   Technology:
    - WikiProject Technology
    - WikiProject Entertainment Technology
